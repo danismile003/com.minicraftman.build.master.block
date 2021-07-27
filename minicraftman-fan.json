@@ -1,0 +1,9 @@
+[ {
+  "id" : "shelate",
+  "init" : 60,
+  "note" : "defull",
+  "pack" : "",
+  "pe1" : 1500,
+  "pe2" : 2000,
+  "status" : false
+} ]
